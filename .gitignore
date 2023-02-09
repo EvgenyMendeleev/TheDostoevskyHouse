@@ -1,0 +1,14 @@
+# Ignored paths for Unreal Engine project.
+ue4/.idea/
+ue4/.vs/
+ue4/Binaries/
+ue4/DerivedDataCache/
+ue4/Intermediate/
+ue4/Saved/
+ue4/*.sln
+ 
+# Ignored paths for Unreal Engine Plugins.
+ue4/Plugins/**/Binaries/
+ue4/Plugins/**/DerivedDataCache/
+ue4/Plugins/**/Intermediate/
+ue4/Plugins/**/Saved/
