@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.dostoevsky_house-18319896.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "D:/UnrealProjects/Dostoevsky_house/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "D:/Unreal Projects/TheDostoevskyHouse/ue4/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
