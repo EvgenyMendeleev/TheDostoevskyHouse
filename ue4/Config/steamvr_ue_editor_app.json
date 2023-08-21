@@ -5,11 +5,7 @@
 			"app_key": "application.generated.ue.the-dostoevsky-house-18319896.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-<<<<<<< Updated upstream
-			"action_manifest_path": "C:/Users/пк/Documents/GitHub/TheDostoevskyHouse/ue4/Config/SteamVRBindings/steamvr_manifest.json",
-=======
 			"action_manifest_path": "C:/Users/пк/Documents/GitHub/TheDostoevskyHouse-sergeychaliy/TheDostoevskyHouse-sergeychaliy/ue4/Config/SteamVRBindings/steamvr_manifest.json",
->>>>>>> Stashed changes
 			"strings":
 			{
 				"en_us":
