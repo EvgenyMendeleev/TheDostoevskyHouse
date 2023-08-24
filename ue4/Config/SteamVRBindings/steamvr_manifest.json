@@ -156,6 +156,22 @@
 			"type": "boolean"
 		},
 		{
+			"name": "/actions/main/in/GrabRight",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Resume",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Quit",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Pause",
+			"type": "boolean"
+		},
+		{
 			"name": "/actions/main/in/MoveForward axis",
 			"type": "vector1"
 		},
@@ -406,6 +422,10 @@
 			"/actions/main/in/open_console": "Open Console",
 			"/actions/main/in/LeftHandInteract": "LeftHandInteract",
 			"/actions/main/in/RightHandInteract": "RightHandInteract",
+			"/actions/main/in/GrabRight": "GrabRight",
+			"/actions/main/in/Resume": "Resume",
+			"/actions/main/in/Quit": "Quit",
+			"/actions/main/in/Pause": "Pause",
 			"/actions/main/in/MoveForward axis": "MoveForward",
 			"/actions/main/in/MoveBack axis": "MoveBack",
 			"/actions/main": "Main Game Actions"
