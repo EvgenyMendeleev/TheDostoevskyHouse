@@ -30,6 +30,50 @@
 					}
 				},
 				{
+					"mode": "trigger",
+					"path": "/user/hand/right/input/trigger",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/GrabRight"
+						}
+					}
+				},
+				{
+					"mode": "button",
+					"path": "/user/hand/right/input/application_menu",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/Resume"
+						}
+					}
+				},
+				{
+					"mode": "button",
+					"path": "/user/hand/left/input/grip",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/Quit"
+						}
+					}
+				},
+				{
+					"mode": "button",
+					"path": "/user/hand/left/input/application_menu",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/Pause"
+						}
+					}
+				},
+				{
 					"mode": "dpad",
 					"path": "/user/hand/left/input/trackpad",
 					"parameters":
@@ -93,5 +137,5 @@
 			]
 		}
 	},
-	"description": "Dostoevsky_house-18319896"
+	"description": "The Dostoevsky house-18319896"
 }
